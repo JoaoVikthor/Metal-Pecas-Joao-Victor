@@ -1,0 +1,134 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+    }
+
+.contanier{
+    display: flex;
+    flex-direction: column;
+}
+
+.video{
+    max-height: 500px;
+    padding: 10px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.Titulo-Sobre{
+    padding-top: 15px;
+    text-align: center;
+    padding: 50px;
+}
+
+.Sub-Titulo-Sobre{
+    display: block;
+    max-width: 500px;
+    text-align: justify;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.texto-sobre{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Container03{
+    display: block;
+    padding: 10px;
+    width: auto;
+    padding-left: 100px;
+    padding-right: 70px;
+    align-items: center;
+}
+
+.titulo-servico{
+    text-align: center;
+}
+
+.titulo-servico{
+    padding: 15px;
+}
+
+.Container02{
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.texto-de-baixo{
+    text-align: center;
+}
+
+html{
+    background-color: #c1fcf4;
+}
+
+.card-Peca{
+    flex-direction: column;
+   padding: 15px;
+    justify-content: space-between;
+}
+
+.content-center{
+    display: block;
+    padding: 10px;
+    width: auto;
+    padding-left: 550px;
+    padding-right: 500px;
+    align-items: center;
+}
+
+
+.text-1000{
+ color: black;
+   
+}
+
+.para-grafo{
+    
+    text-align: center;
+    text-align: justify;
+    padding: 15px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.site{
+    justify-content: center;
+    text-align: justify;
+    text-align: center;
+    padding: 10px;
+}
+
+.redes{
+    display: flex;
+    padding: 5px;
+    padding-left: 550px;
+    padding-right: 500px;
+    padding-bottom: 50px;
+    padding-top: 5px;
+}
+
+.centralizar{
+    display: block;
+    padding: 10px;
+    width: auto;
+    padding-left: 500px;
+    padding-right: 70px;
+    align-items: center; 
+}
+
+.linha{
+    display: block;
+    padding: 10px;
+    width: auto;
+    padding-left: 500px;
+    padding-right: 70px;
+    align-items: center; 
+}
